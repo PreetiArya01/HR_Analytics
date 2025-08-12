@@ -1,0 +1,193 @@
+employee_id,exit_date,reason_for_leaving
+1,2023-09-11,Termination
+2,2019-03-27,Better Offer
+33,2024-02-16,Better Offer
+45,2025-08-10,Better Offer
+49,2025-08-10,Resignation
+54,2024-11-19,Retirement
+62,2020-11-07,Resignation
+64,2021-05-18,Termination
+68,2025-08-10,Relocation
+88,2025-08-10,Retirement
+89,2018-03-26,Better Offer
+92,2024-07-31,Retirement
+93,2024-05-22,Termination
+96,2025-03-23,Relocation
+97,2025-08-10,Relocation
+99,2020-06-19,Retirement
+102,2023-04-29,Resignation
+104,2021-07-03,Retirement
+110,2025-01-19,Termination
+114,2023-07-12,Resignation
+123,2021-08-04,Retirement
+124,2019-10-26,Relocation
+150,2023-01-13,Termination
+154,2023-12-27,Better Offer
+158,2023-03-02,Better Offer
+162,2025-08-10,Relocation
+167,2023-10-29,Resignation
+171,2018-07-03,Better Offer
+173,2025-08-10,Retirement
+174,2023-12-24,Termination
+178,2025-08-10,Relocation
+183,2024-01-24,Resignation
+190,2025-08-10,Termination
+198,2024-03-27,Relocation
+211,2025-08-10,Termination
+221,2025-02-10,Resignation
+226,2025-01-04,Better Offer
+239,2025-08-10,Termination
+240,2018-01-02,Relocation
+241,2023-02-01,Resignation
+242,2025-08-10,Termination
+243,2021-08-18,Relocation
+248,2024-07-11,Retirement
+250,2023-10-09,Termination
+252,2025-08-10,Termination
+253,2025-08-10,Better Offer
+258,2022-02-05,Retirement
+262,2022-08-21,Termination
+265,2025-08-10,Resignation
+267,2023-02-11,Termination
+269,2021-12-25,Relocation
+275,2025-08-10,Relocation
+277,2018-07-02,Termination
+291,2024-07-04,Relocation
+297,2021-10-21,Better Offer
+298,2020-10-10,Termination
+299,2019-09-06,Termination
+307,2025-08-10,Relocation
+312,2024-11-20,Retirement
+316,2025-08-10,Retirement
+318,2025-08-10,Resignation
+322,2025-07-11,Termination
+346,2025-08-10,Retirement
+349,2025-08-10,Better Offer
+350,2023-09-24,Retirement
+360,2025-08-10,Relocation
+365,2025-03-31,Better Offer
+367,2020-02-16,Better Offer
+368,2023-05-09,Termination
+379,2024-04-27,Resignation
+382,2024-09-29,Better Offer
+389,2025-08-10,Better Offer
+403,2025-08-10,Termination
+414,2025-08-10,Retirement
+419,2025-08-10,Termination
+422,2025-08-10,Resignation
+424,2025-08-10,Retirement
+430,2024-04-06,Better Offer
+434,2025-08-10,Better Offer
+442,2023-07-18,Better Offer
+445,2025-08-10,Termination
+449,2020-01-10,Resignation
+454,2023-07-25,Relocation
+455,2023-03-06,Termination
+469,2025-08-10,Retirement
+470,2023-03-10,Relocation
+474,2019-12-28,Better Offer
+477,2018-02-12,Termination
+483,2025-08-10,Resignation
+492,2019-06-24,Better Offer
+496,2025-06-09,Relocation
+497,2025-08-10,Relocation
+506,2017-06-15,Resignation
+510,2025-08-10,Retirement
+511,2025-08-10,Retirement
+516,2023-12-12,Resignation
+518,2015-10-03,Retirement
+519,2022-12-11,Better Offer
+529,2025-08-10,Termination
+530,2025-08-10,Termination
+535,2025-08-01,Better Offer
+537,2025-08-10,Better Offer
+549,2022-09-23,Termination
+550,2020-03-27,Resignation
+553,2021-02-23,Better Offer
+559,2017-07-24,Termination
+561,2025-08-10,Termination
+563,2023-09-28,Resignation
+571,2018-07-28,Better Offer
+579,2025-08-10,Resignation
+585,2025-08-10,Relocation
+589,2022-12-14,Better Offer
+610,2021-05-22,Better Offer
+612,2022-02-23,Better Offer
+616,2017-06-06,Relocation
+617,2025-08-10,Better Offer
+619,2022-11-01,Relocation
+621,2025-08-10,Better Offer
+625,2020-07-26,Resignation
+628,2018-03-12,Better Offer
+636,2021-10-03,Retirement
+645,2025-08-10,Retirement
+647,2024-01-22,Resignation
+649,2022-04-03,Relocation
+653,2017-04-20,Resignation
+662,2025-08-10,Retirement
+663,2025-04-20,Relocation
+665,2018-04-24,Relocation
+667,2016-05-01,Better Offer
+673,2025-02-17,Better Offer
+681,2022-08-26,Resignation
+682,2025-08-10,Termination
+690,2023-01-01,Termination
+691,2024-01-18,Termination
+696,2023-09-13,Retirement
+704,2017-08-14,Better Offer
+708,2025-08-10,Relocation
+718,2021-08-19,Relocation
+719,2025-08-10,Resignation
+721,2021-09-10,Resignation
+725,2025-08-10,Retirement
+729,2025-08-10,Termination
+733,2025-08-10,Better Offer
+737,2022-07-10,Better Offer
+742,2021-09-17,Termination
+744,2018-11-03,Better Offer
+745,2025-08-10,Relocation
+765,2017-06-24,Resignation
+767,2017-05-12,Resignation
+781,2025-08-10,Termination
+784,2025-08-10,Relocation
+785,2017-09-30,Relocation
+788,2020-09-08,Better Offer
+792,2025-08-10,Better Offer
+808,2025-02-05,Relocation
+814,2025-08-10,Better Offer
+826,2023-09-02,Retirement
+830,2022-06-17,Relocation
+834,2025-08-10,Termination
+844,2020-01-01,Resignation
+845,2022-12-27,Better Offer
+853,2023-05-05,Termination
+854,2022-11-01,Better Offer
+855,2022-08-10,Termination
+863,2019-01-13,Better Offer
+866,2022-11-26,Retirement
+876,2024-04-13,Relocation
+878,2025-05-31,Relocation
+882,2025-08-10,Retirement
+890,2025-08-10,Termination
+893,2023-06-21,Retirement
+897,2023-11-25,Better Offer
+903,2015-10-17,Termination
+912,2025-08-10,Termination
+913,2025-08-10,Resignation
+921,2024-08-07,Resignation
+925,2015-12-20,Retirement
+927,2024-11-07,Termination
+929,2025-08-10,Resignation
+931,2019-12-29,Relocation
+940,2025-08-10,Resignation
+946,2022-12-03,Relocation
+948,2025-08-10,Termination
+951,2025-08-10,Retirement
+953,2019-07-08,Better Offer
+961,2021-06-01,Better Offer
+965,2019-07-14,Better Offer
+970,2025-08-10,Relocation
+979,2021-02-23,Resignation
+992,2025-08-10,Retirement
+994,2021-05-17,Termination
+999,2017-10-12,Resignation
