@@ -5,7 +5,7 @@ from sqlalchemy.engine import URL
 connection_url = URL.create(
     drivername="mysql+pymysql",
     username="root",
-    password="RISHI@garv1222",  
+    password="************",  
     host="localhost",
     port=3306,
     database="hr_analytics",
