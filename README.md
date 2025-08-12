@@ -22,15 +22,14 @@ Project Structure
 HR_Analytics/
 │
 ├── Data/
-│ └── risk_scores.csv # Output: predicted attrition risk scores
-│
+│ └── risk_scores.csv 
 ├── Notebooks/
-│ ├── 1_generate_data.py # Generate synthetic HR dataset
-│ ├── 2_load_to_mysql.py # Load dataset into MySQL
-│ ├── 3_read_queries_mysql.py # Execute SQL queries for insights
-│ └── 4_etl_and_model.py # ETL process + ML model training
+│ ├── 1_generate_data.py 
+│ ├── 2_load_to_mysql.py 
+│ ├── 3_read_queries_mysql.py 
+│ └── 4_etl_and_model.py 
 │
-├── sql/ # SQL schema & queries
+├── sql/ 
 │
 ├── model/
 │ ├── hr_attrition_model.joblib # Saved Logistic Regression model
@@ -93,10 +92,9 @@ Example Output
 How to Run
 
 1️⃣ Install Dependencies
-
 pip install pandas sqlalchemy pymysql scikit-learn joblib
-2️⃣ Execute Workflow
 
+2️⃣ Execute Workflow
 Run the scripts in order:
 
 python Notebooks/1_generate_data.py
