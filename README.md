@@ -21,16 +21,20 @@ Tech Stack
 
 **Project Structure**
 
-HR_Analytics/
+*HR_Analytics/*
 
 **A.** Data/
 
   **1** risk_scores.csv     # Output: predicted attrition risk scores
+  
 **B.** Notebooks/
 
   **1** 1_generate_data.py     # Generate synthetic HR dataset
+  
   **2** 2_load_to_mysql.py     # Load dataset into MySQL
+  
   **3** 3_read_queries_mysql.py     # Execute SQL queries for insights
+  
   **4** 4_etl_and_model.py     # ETL process + ML model training
 
 **C.** sql/ # SQL schema & queries
@@ -38,6 +42,7 @@ HR_Analytics/
 **D.** model/
 
   **1** hr_attrition_model.joblib     # Saved Logistic Regression model
+  
   **2** hr_scaler.joblib     # Feature scaler for model
   
 **E** README.md     # Project documentation
