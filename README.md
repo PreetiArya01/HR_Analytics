@@ -1,6 +1,7 @@
 HR Analytics — Employee Attrition Prediction
 
-Project Overview
+**Project Overview**
+
 The **HR Analytics Project** demonstrates a complete **ETL + Machine Learning pipeline** for analyzing and predicting employee attrition risk.  
 This project simulates a real-world HR scenario where multiple datasets (employee details, salaries, performance, and exits) are stored in **MySQL**, processed with **Python**, and used to train a predictive model.
 
@@ -18,7 +19,7 @@ Tech Stack
 
 ---
 
-Project Structure
+**Project Structure**
 HR_Analytics/
 │
 ├── Data/
@@ -104,6 +105,7 @@ python Notebooks/4_etl_and_model.py
 
 
 **Key Learnings**
+
 Database Integration: Connecting Python to MySQL
 
 ETL Pipelines: Extract, Transform, Load processes
